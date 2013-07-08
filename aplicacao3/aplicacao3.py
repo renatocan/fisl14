@@ -1,7 +1,7 @@
 #! /usr/bin/env python
 # -*- coding: utf-8 -*-
 
-# Aplicação 4 - Filtragem
+# Aplicação 3 - Filtragem
 
 import numpy as np
 import scipy.io.wavfile
